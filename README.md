@@ -11,7 +11,7 @@ desenvolvimento de site nas linguagens HTMl e CSS
 Estudante: **Rayka lopes vera** nº **23*
 
 
-Estudante: **Sabina Stefanny Nunes Barreto nº **24
+Estudante: **Sabina Stefanny Nunes Barreto** nº **24
 
 
 
